@@ -1,5 +1,5 @@
 {
-  "name": "api-pkg-search",
+  "name": "npm-pkg-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
